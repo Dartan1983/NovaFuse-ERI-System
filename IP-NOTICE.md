@@ -2,7 +2,7 @@
 
 ## Scope and Intent
 
-The **NovaFuse ERI System** defines a formal framework for transforming execution into a **verifiable artifact of record**.
+The **NovaFuse ERI System** defines a formal system for transforming execution into a **verifiable artifact of record**.
 
 An Executable Reference Implementation (ERI) is not a demo, simulation, or illustrative example.  
 It is a system that establishes whether execution is *real* by requiring admissibility, verification, and evidence at runtime.
