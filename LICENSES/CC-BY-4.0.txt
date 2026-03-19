@@ -1,0 +1,87 @@
+Creative Commons Attribution 4.0 International
+
+Creative Commons Corporation ("Creative Commons") is not a law firm and does not provide legal services. Distribution of Creative Commons public licenses does not create a lawyer-client or attorney-client relationship. Creative Commons makes its licenses and related information available on an "as-is" basis. Creative Commons provides no warranties regarding its licenses, any material licensed under their terms and conditions, or any information made available by Creative Commons. This document may contain technical inaccuracies or typographical errors. Creative Commons disclaims all liability for technical inaccuracies or typographical errors, to the fullest extent permitted by law.
+
+Creative Commons may be contacted at creativecommons.org.
+
+---
+
+### CREATIVE COMMONS ATTRIBUTION 4.0 INTERNATIONAL PUBLIC LICENSE
+
+Exercise of any rights under this License constitutes acceptance of the terms and conditions of this License. By exercising any rights to the Work, you agree to be bound by the terms and conditions of this License.
+
+#### 1. Definitions
+
+**"Adapted Material"** means material subject to copyright law, or similar rights law, that is protected by copyright or similar rights law, that is provided under the terms of this License. This includes, but is not limited to, a performance, a broadcast, a sound recording, a film, or other work.
+
+**"Adapter's License"** means the license you apply to your Adapted Material in accordance with the terms and conditions of this License.
+
+**"BY"** means appropriate credit is given to the Creator of the Work in the manner specified by the Creator or Licensor.
+
+**"Copyright and Similar Rights"** means copyright and/or similar rights closely related to copyright including, but not limited to, performance, broadcast, sound recording, and other rights.
+
+**"Effective Technological Measures"** means those measures that, in the absence of proper authority, may not be circumvented under laws fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, and/or similar international agreements.
+
+**"Exceptions and Limitations"** means fair use, fair dealing, and/or other exceptions to copyright law that may apply to your use of the Licensed Material.
+
+**"Licensed Material"** means the artistic or literary work, database, or other material to which this License is applied.
+
+**"Licensed Rights"** means the rights granted to You subject to the terms and conditions of this License, which are limited to all rights in the Copyright and Similar Rights that apply to your use of the Licensed Material and that the Licensor has authority to license.
+
+**"Licensor"** means the individual(s) or entity(ies) that grant(s) rights under this License.
+
+**"Share"** means to provide material to the public by any means or process that requires permission under the Licensed Rights, such as reproduction, public display, public performance, distribution, dissemination, communication, or importation, and to make material available to the public including on websites or by other means of digital communication.
+
+**"Work"** means the Licensed Material.
+
+**"You"** means an individual or entity exercising rights under this License.
+
+#### 2. Scope
+
+**License grants the right to:**
+
+* Share — copy and redistribute the material in any medium or format
+* Adapt — remix, transform, and build upon the material
+
+**under the following terms:**
+
+* Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+#### 3. License Terms
+
+**a. Attribution**
+
+1. If You Share the Licensed Material (including in modified form), You must:
+
+   a. retain the following if it is supplied by the Licensor with the Licensed Material:
+      i. the identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
+     ii. a copyright notice;
+    iii. a notice that refers to this License; and
+     iv. a notice that refers to the disclaimer of warranties.
+   b. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
+   c. indicate the Licensed Material is licensed under this License, and include the text of, or the URI or hyperlink to, this License.
+
+2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner, provided that, however, if You Share the Adapted Material, You must not remove or alter the credit, title, or notice required by Section 3(a)(1).
+
+3. For any avoidance of doubt, You do not have permission under this License to Share Adapted Material.
+
+4. To the extent possible, the Licensor waives and/or agrees not to assert any rights or remedies against You for breach of this License, to the fullest extent permitted by applicable law.
+
+---
+
+#### Creative Commons Notice
+
+Creative Commons Corporation is not a party to this License, and makes no warranty whatsoever in connection to the Licensed Material. Creative Commons will not be liable to You or any party on legal theory for any damages whatsoever, including without limitation any general, special, incidental or consequential damages arising in connection to this license. Notwithstanding the foregoing two (2) sentences, if Creative Commons has expressly advised otherwise, Creative Commons shall not be liable to You or any party on legal theory for any special, incidental, consequential, punitive or exemplary damages arising out of this license or the use of the Licensed Material.
+
+---
+
+### Attribution
+
+When sharing or adapting this work, please provide appropriate attribution as follows:
+
+- **Attribute to:** David Nigel Irvin / NovaFuse Technologies
+- **License:** Creative Commons Attribution 4.0 International
+- **License URL:** https://creativecommons.org/licenses/by/4.0/
+
+For more information about Creative Commons licenses, visit:
+https://creativecommons.org/licenses/

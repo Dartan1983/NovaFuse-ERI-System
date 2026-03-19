@@ -1,4 +1,8 @@
-# **ERI-000 — Executable Reference Implementation Formalization**
+<!--
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
+# **ERI-000 â€” Executable Reference Implementation Formalization**
 
 ## Status
 
@@ -85,7 +89,7 @@ These artifacts collectively define **what happened**, **why it happened**, and 
 The following properties are mandatory:
 
 *   **Commit ? Admissible**
-*   **¬Admissible ? Abort ? ¬SideEffects**
+*   **Â¬Admissible ? Abort ? Â¬SideEffects**
 
 There is no partial execution.  
 There is no speculative execution.  

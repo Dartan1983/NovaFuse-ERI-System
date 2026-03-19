@@ -7,14 +7,27 @@ If an execution cannot be proven, it is not considered real.
 
 ---
 
+## License (Split Licensing)
+
+This repository uses **split licensing**:
+
+- **Code, schemas, tooling, and executable artifacts** are licensed under **Apache License 2.0** (SPDX: `Apache-2.0`).
+- **Specification text and documentation** (including `ERI-000-Formalization/`, `docs/`, and other Markdown spec content) are licensed under **Creative Commons Attribution 4.0 International** (SPDX: `CC-BY-4.0`).
+
+See:
+- `LICENSE` (Apache-2.0)
+- `LICENSES/CC-BY-4.0.txt` (CC-BY-4.0) *(if present)*
+
+---
+
 ## Core Principle
 
 Execution is not accepted as valid unless it is:
 
-- **Identified** — bound to a verifiable authority and context
-- **Governed** — evaluated against explicit admissibility rules
-- **Verifiable** — emitting sufficient evidence for independent review
-- **Admissible** — affirmed by all required authorities
+- **Identified** â€” bound to a verifiable authority and context
+- **Governed** â€” evaluated against explicit admissibility rules
+- **Verifiable** â€” emitting sufficient evidence for independent review
+- **Admissible** â€” affirmed by all required authorities
 
 Unverified execution is not accepted as execution.
 
