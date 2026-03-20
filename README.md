@@ -1,5 +1,6 @@
 # NovaFuse ERI System
-
+![Execution Proof System](https://img.shields.io/badge/System-Execution%20Proof%20System-blue) ![Specification Status](https://img.shields.io/badge/Specification-Formal-black) ![Normative Authority](https://img.shields.io/badge/Authority-Normative-red) ![Conformance Required](https://img.shields.io/badge/Conformance-Mandatory-orange) ![License](https://img.shields.io/badge/License-Apache%202.0%20%2B%20CC--BY--4.0-green)
+---
 The **NovaFuse ERI System** defines a formal, verifiable, and enforceable framework for transforming execution into a **provable artifact of record**.
 
 An Executable Reference Implementation (ERI) replaces demonstrations, simulations, and claims with **deterministic, replayable, evidence-bound execution artifacts**.  
